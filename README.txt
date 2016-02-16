@@ -1,4 +1,5 @@
 OC_Activite
 
+L'explication est simple :
 
-Page html simple pour Openclassrooms.
+C'est une page html simple pour Openclassrooms avec css et images.
