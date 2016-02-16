@@ -3,14 +3,19 @@
 	background-color: #57B4D4;
 }
 
-h1 
+h1, h2
 {
 	text-align: center;
 	text-decoration: underline;
 	color: white;
 }
 
-p
+.bord, img
 {
 	border: 3px white dotted;
+}
+
+.img
+{
+	text-align: center;
 }
